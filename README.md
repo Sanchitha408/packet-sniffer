@@ -7,6 +7,9 @@ Captures live traffic and displays **source IP, destination IP, protocol, and po
 > **Requires:** Python 3.6+ · Root privileges
 
 ---
+#Demo
+https://asciinema.org/connect/e8369783-35be-47af-91e1-b1c45350b2c8
+
 
 ## Features
 
