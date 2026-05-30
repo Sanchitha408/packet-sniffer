@@ -1,0 +1,13 @@
+{"version": 2, "width": 155, "height": 43, "timestamp": 1780158447, "env": {"SHELL": "/usr/bin/zsh", "TERM": "xterm-256color"}}
+[0.171489, "o", "/home/kali/.zshrc:251: bad assignment\r\n"]
+[0.174092, "o", "                                                                                                                                                           \r\r"]
+[0.176377, "o", "\u001b]0;(venv)kali@kali: ~/packet-sniffer\u0007"]
+[0.180491, "o", "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[32m┌──(venv)─(\u001b[1m\u001b[32m\u001b[34mkali㉿kali\u001b[0m\u001b[34m\u001b[32m)-[\u001b[1m\u001b[32m\u001b[39m~/packet-sniffer\u001b[0m\u001b[32m]\r\n└─\u001b[1m\u001b[32m\u001b[34m$\u001b[0m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"]
+[60.663095, "o", "\u001b[4mE\u001b[24m"]
+[62.761715, "o", "\b\u001b[24m \b"]
+[63.187105, "o", "\u001b[4me\u001b[24m"]
+[63.388167, "o", "\b\u001b[24m\u001b[36me\u001b[36mx\u001b[39m"]
+[63.682527, "o", "\b\b\u001b[39m\u001b[4me\u001b[39m\u001b[4mx\u001b[4mi\u001b[24m"]
+[63.906275, "o", "\b\b\b\u001b[24m\u001b[36me\u001b[24m\u001b[36mx\u001b[24m\u001b[36mi\u001b[36mt\u001b[39m"]
+[65.793635, "o", "\u001b[?1l\u001b>"]
+[65.800568, "o", "\u001b[?2004l\r\r\n"]
